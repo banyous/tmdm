@@ -2,7 +2,7 @@
 Text mining data model with integration of various formats, annotation libraries, bells 
 and whistles.
 
-#Summary 
+# Summary 
 This library is for Text Mining and Data Mining. It contains various tools and algorithms for pre-processing and analyzing text data, such as text pre-processing, feature extraction, and classification.
 
 You can use this library to extract useful information from text data, such as sentiment analysis, topic modeling, and so on. The repository contains a number of example scripts and tutorials that demonstrate how to use the library.
